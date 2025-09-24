@@ -14,12 +14,12 @@
 
 ```javascript
 const samarth = {
-  education: "Computer Science @ Bennett University",
-  passion: ["Full-Stack Development", "GenAI", "Competitive Coding"],
   currentlyWorking: "Software Development Intern @ FRKR Global LLP",
-  currentlyLearning: ["Nuxt.js", "PostHog", "GTM"],
+  passion: ["Full-Stack Development", "GenAI", "Competitive Coding"],
+  currentlyLearning: ["Nuxt.js", "PostHog", "System Design"],
+  education: "Computer Science @ Bennett University - 9.3 CGPA",
   accomplished: "700+ DSA Problems Solved",
-  achievement: "Patent-Pending Video-Audio Synchronization Algorithm",
+  achievement: "Patent Filed By My University For My Algorithm",
   funFact: "I turn caffeine into code, and problems into opportunities"
 };
 ```
@@ -192,7 +192,7 @@ I believe in building technology that makes a difference
   <a href="https://auth.geeksforgeeks.org/user/samarthbansal" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   </a>
-  <a href="https://samarthbansal.vercel.app/" target="_blank">
+  <a href="https://samarthbansal.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6E48AA?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/bansal-samarth" target="_blank">
